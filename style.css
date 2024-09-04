@@ -40,6 +40,11 @@
     cursor: pointer;
     
 }
+@media (max-width: 600px) {
+    #btn {
+        margin-top: 20px; 
+    }
+}
 
 .tablestyle {
     font-family: 'Poppins', sans-serif;
